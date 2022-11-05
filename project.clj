@@ -1,4 +1,4 @@
-(defproject org.clojars.ruffnext/cljs-http "0.1.47"
+(defproject io.github.ruffnext/cljs-http "0.1.47"
   :description "A ClojureScript HTTP library."
   :url "https://github.com/ruffnext/cljs-http"
   :license {:name "Eclipse Public License"
